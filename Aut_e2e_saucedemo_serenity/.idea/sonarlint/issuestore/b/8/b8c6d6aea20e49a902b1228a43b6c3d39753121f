@@ -1,0 +1,22 @@
+
+w
+java:S1104	"ZMake USERNAME_FIELD a static final constant or non-public and provide accessors if needed.(‘äº¤8µ•áïù1
+u
+java:S1104
+"YMake PASSWORD_FILD a static final constant or non-public and provide accessors if needed.(ß˜Œ8íäïù1
+u
+java:S1104"XMake LOGIN_BUTTON a static final constant or non-public and provide accessors if needed.(şÏ‹‡8Âéõïù1
+Q
+java:S1444	"4Make this "public static USERNAME_FIELD" field final(‘äº¤8µ•áïù1
+O
+java:S1444
+"3Make this "public static PASSWORD_FILD" field final(ß˜Œ8íäïù1
+O
+java:S1444"2Make this "public static LOGIN_BUTTON" field final(şÏ‹‡8Âéõïù1
+v
+java:S3008	"YRename this field "USERNAME_FIELD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘äº¤8·•áïù1
+t
+java:S3008
+"XRename this field "PASSWORD_FILD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß˜Œ8íäïù1
+t
+java:S3008"WRename this field "LOGIN_BUTTON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÏ‹‡8Äéõïù1

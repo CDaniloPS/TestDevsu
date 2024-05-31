@@ -1,0 +1,4 @@
+
+- El flujo de compra HappyPath pudo ser automatizado sin contratiempos.
+- Para visualizar el flujo de la automatización de manera pausada se requiere agregar timeouts como
+        	Thread.sleep(1000);.

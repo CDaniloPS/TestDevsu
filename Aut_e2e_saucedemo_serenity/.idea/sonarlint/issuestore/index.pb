@@ -1,0 +1,62 @@
+
+?
+settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
+C
+serenity.properties,2\5\25f1bbdc8dba7ca4a4b90251f1ef69621b24a28c
+;
+gradlew.bat,2\a\2a45a911a8f1836b0b6c5b758962572012d8f8c3
+<
+build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+P
+ src/test/resources/serenity.conf,d\b\dbdf576756e543da1b447ce4b82c9f1aa7518a2c
+O
+src/main/java/com/e2e/Main.java,a\a\aa3c61cc66bb54d928df206e8cd04a55932e4944
+Y
+)src/main/java/com/e2e/ui/CarritoForm.java,b\0\b02c45915cdce5d7575aa2002dd0cf3309757191
+`
+0src/test/java/com/e2e/runners/WebRunnerTest.java,3\0\30a6bc4fb422907c531582ed97d55170535c02f7
+@
+Conclusiones.txt,5\0\5085f2269011c196122dea9305fbb6efa88c3b9b
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+S
+#target/site/serenity/pom.properties,b\b\bb801499fe2781fb25a802893fa9494e412576c5
+P
+ target/site/serenity/results.csv,3\e\3e0959072670a984c415ed6caf876cfc335a5860
+W
+'target/site/serenity/serenity-resources,9\d\9d419a4331b11ab890f6117b88a518502c3e22c1
+P
+ target/site/serenity/summary.txt,2\4\24f805f7544b0d7ef191e6a0a652fbb851b6a4ac
+O
+target/site/serenity/index.html,c\e\ce1d953599e56cfde85da6acfdbbb722b0c73490
+Y
+)src/main/java/com/e2e/tasks/DoCompra.java,f\7\f74f96e6a6b90490ee4dbe967a1ebeee7d6ac44a
+]
+-src/main/java/com/e2e/tasks/DoVerCarrito.java,a\2\a289e4029e2606db51563f2b68e6f3ef1db35d4b
+S
+#src/main/java/com/e2e/tasks/gradlew,7\2\72fedc38d14f046dcb0aaf70bf460dfb233a29d3
+V
+&src/main/java/com/e2e/ui/HomeForm.java,b\8\b8c6d6aea20e49a902b1228a43b6c3d39753121f
+Z
+*src/main/java/com/e2e/tasks/DoCompra2.java,1\1\1154ccb7ea2c9dc18222049e90f71f1f45143570
+[
++src/main/java/com/e2e/tasks/DoFinaliza.java,0\1\01f03e4b2c9081353f10336a72d6ba0fdf9806c8
+\
+,src/main/java/com/e2e/tasks/DoFormOrder.java,4\5\450c44c7277649aa02c6eebf004226f10525f0e9
+\
+,src/main/java/com/e2e/ui/FormularioForm.java,4\1\41917c844ac8b7370c9c9c7af9a97878ca67794c
+Z
+*src/main/java/com/e2e/ui/FinalizaForm.java,d\8\d8ce77faa69c05f8f9b64c17fa4e8f0e24d9b585
+X
+(gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
+b
+2src/test/java/com/e2e/glue/BuyInSaucedemoGlue.java,f\6\f600c1585a1211d321c158e8e4dba92ed542d063
+]
+-src/main/java/com/e2e/tasks/DoAccesoHome.java,8\f\8f1df62d734ac407ee1552ad3081bd50316acfbf
+Z
+*src/main/java/com/e2e/ui/ProductForms.java,1\b\1b5848f811329b9ee2ca4792695b710a0eb0d84d
+[
++src/main/java/com/e2e/tasks/DoConfirma.java,6\5\65222ea569858bb0b7f123a608f09776a8c24c34
